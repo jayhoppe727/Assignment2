@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.block-one {  
+    margin: 0px;
+    padding: 150px;
+    background-color: aliceblue
+}
+
+#h1 {
+    text-align: right;
+    font-family: 'Vidaloka', serif;
+    font-size: 90px;
+}
+
+#p, #p2 {
+    text-align: right;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 45px;
+    
+}
+.block-two {
+    margin: 0px;
+    padding: 300px;
+    background-color: cornsilk;
+}
+
+#h2 {
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 120px;
+
+}
+
+#p3 {
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+   
+}
+
+.block-three {
+    margin: 0px;
+    padding: 150px;
+    background-color: bisque;
+
+}
+
+#h3 {
+    font-family: 'Suez One', serif;
+    font-size: 100px;
+
+}
+#p4 {
+    font-family: 'Overlock', cursive;
+    font-size: 50px;
+
+}
